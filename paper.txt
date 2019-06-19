@@ -5,6 +5,8 @@ Our submission to Bioinformatics 2019
 #Runs done
 #Results and Discussions
 #Further work
+#References
+#Appendices
 
-Note: improve Fig. 13
+Note: improve Fig. 13 - DONE
 
