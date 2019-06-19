@@ -3,6 +3,6 @@ Our submission to Bioinformatics 2019
 #Research Question 
 #Raw data and analysis 
 #Runs done
-#Results
+#Results and Discussions
 #Further work
 
