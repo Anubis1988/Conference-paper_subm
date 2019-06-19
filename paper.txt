@@ -10,3 +10,5 @@ Bioinformatics Nobel Prize Winner 2019
 
 Note: improve Fig. 13 - DONE
 
+Collaborator change:
+A new line of text by Cameron Fairfield
